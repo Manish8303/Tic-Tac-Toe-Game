@@ -72,7 +72,7 @@ start index.html
 **👨‍💻 Manish Singh**
 📧 `manishsingh8303@gmail.com`
 
-📘 *Developed as a beginner JavaScript project or for academic demonstration.*
+📘 *Developed as a beginner JavaScript project.*
 
 ---
 
